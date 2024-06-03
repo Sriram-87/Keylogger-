@@ -1,0 +1,17 @@
+pynput
+logging
+win32api
+win32con
+pyscreenshot
+pytesseract
+Pillow
+cv2
+wave
+sounddevice
+watchdog
+requests
+scapy
+sklearn
+geopy
+cryptography
+smtplib

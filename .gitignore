@@ -1,0 +1,15 @@
+# Python bytecodes
+*.pyc
+__pycache__/
+
+# Logs and databases
+*.log
+*.sqlite
+
+# Development tools
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db

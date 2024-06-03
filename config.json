@@ -1,0 +1,10 @@
+{
+  "report_interval": 60,
+  "screenshot_interval": 300,
+  "audio_interval": 600,
+  "target_windows": ["Target Application 1", "Target Application 2"],
+  "email_sender": {
+    "email": "your_email@example.com",
+    "password": "your_email_password"
+  }
+}
